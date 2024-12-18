@@ -10,10 +10,11 @@ Jogo feito em HTML, CSS e javascript para a proposta de intervenção do projeto
 
 # Jogo 
 
+<img src="https://github.com/user-attachments/assets/51dafb3a-6553-4ebf-8fb7-60bebf465fbf" width="800" />
 ![image](https://github.com/user-attachments/assets/51dafb3a-6553-4ebf-8fb7-60bebf465fbf)
 
 
-
-
 # Game Over
+
+<img src="https://github.com/user-attachments/assets/e4865a19-2e9e-467d-9de3-96bf8b29ee6c" width="800" />
 ![image](https://github.com/user-attachments/assets/e4865a19-2e9e-467d-9de3-96bf8b29ee6c)
