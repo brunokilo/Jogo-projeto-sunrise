@@ -4,6 +4,8 @@ Jogo feito em HTML, CSS e javascript para a proposta de intervenção do projeto
 
 # Inicio do jogo 
 
+<img src="https://github.com/user-attachments/assets/478d1666-2792-4c63-9d03-27797173df37" width="100" />
+
 ![image](https://github.com/user-attachments/assets/478d1666-2792-4c63-9d03-27797173df37)
 
 # Jogo 
